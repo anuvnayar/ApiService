@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Infocore-Harish\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Infocore-Harish\\.nuget\\packages"
+    ]
+  }
+}
